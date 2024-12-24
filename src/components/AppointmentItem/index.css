@@ -1,1 +1,30 @@
 /* Write your CSS here */
+.btn {
+  background-color: transparent;
+  border: none;
+}
+.list-container {
+  border-radius: 3%;
+  border: 1px solid #9796f0;
+  list-style: none;
+  width: 200px;
+  padding: 1%;
+  height: 70px;
+  margin: 5px;
+}
+
+.list-title {
+  font-size: 0.8em;
+}
+.star {
+  width: 20px;
+  height: 20px;
+  margin: 1%;
+}
+.list-header {
+  display: flex;
+  justify-content: space-between;
+}
+.date {
+  font-size: 0.8em;
+}
